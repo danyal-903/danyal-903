@@ -32,6 +32,14 @@
 - I use lestencrypt to obtain SSL certificates
 - I use Minikube and Kind to play with Kubernetes
 ```
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danyal-903&theme=algolia&margin-w=15&margin-h=15&rank=S,SSS,SS,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danyal-903&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyal-903&theme=dracula)
+
 <!---
 danyalr8/danyalr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
