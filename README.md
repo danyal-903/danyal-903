@@ -11,9 +11,9 @@
 ```
 ```
 🔭 I’m currently working as Software Engineer
-😍 My favourite tech stack is NestJS, TypeORM and PostgreSQL
+😍 My favourite tech stack is Laravel, NestJS, TypeORM and PostgreSQL
 🌱 I’m currently learning cloud native technologies like kubernetes, docker
-👯 I’m looking to collaborate on some cool open source projects in TypeScript
+👯 I’m looking to collaborate on some cool open source projects in TypeScript, Laravel, NestJS
 📫 You can reach me at danyalr8@gmail.com
 ```
 
